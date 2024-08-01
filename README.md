@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alondracallejas
+- 👋 Hi, I’m Alondra Callejas but everyone calls me Alo...
 - 👀 I’m interested in Data Science for process and service optimization.
 - 🌱 I’m currently learning supervised and unsupervised machine learning, big data and implementation at the production level.
 - 💞️ I’m looking to collaborate on multidisciplinary teams.
